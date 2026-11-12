@@ -1,0 +1,13 @@
+
+{
+  "name": "student-registration-frontend",
+  "version": "1.0.0",
+  "description": "Node.js Express frontend for Flask Docker assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
